@@ -9,10 +9,12 @@
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00ffff?style=for-the-badge&logo=ghost"/>
 <img src="https://img.shields.io/badge/CYBERPUNK-ENABLED-ff00ff?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HACKER-MODE-black?style=for-the-badge&logo=hackaday"/>
+<img src="https://img.shields.io/badge/Minecraft-Modding-3C8527?style=for-the-badge&logo=minecraft&logoColor=white"/>
 
 </div>
 
 <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/cyberpunk-edgerunners.gif" width="100%"/>
+
 ---
 
 # 🧠 ABOUT ME
@@ -64,6 +66,4 @@ Multi-language runtime container system.
 ￼   
 �  
   
-�  
-  
-
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>

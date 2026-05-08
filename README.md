@@ -10,6 +10,17 @@
 <img src="https://img.shields.io/badge/CYBERPUNK-ENABLED-ff00ff?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HACKER-MODE-black?style=for-the-badge&logo=hackaday"/>
 <img src="https://img.shields.io/badge/Minecraft-Modding-3C8527?style=for-the-badge&logo=minecraft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Minecraft-Server-62B47A?style=for-the-badge&logo=minecraft&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Minecraft-Developer-darkgreen?style=for-the-badge&logo=minecraft&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Minecraft-Modding-3C8527?style=for-the-badge&logo=minecraft&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PaperMC-Server-white?style=for-the-badge&logo=paperlessngx&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Spigot-Plugin-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Bukkit-API-green?style=for-the-badge"/>
 
 </div>
 

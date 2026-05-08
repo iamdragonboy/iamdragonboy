@@ -22,12 +22,11 @@
 > Docker & VPS Systems Engineer  
 > Discord Bot Developer  
 > Building futuristic SaaS systems  
-⚙️ TECH STACK  
-�  
+⚙️ TECH STACK
+ 
   
-�  
-￼  
-�  
+
+
   
 🚀 FEATURED PROJECTS  
 ⚡ Slime Panel  
@@ -41,15 +40,11 @@ Advanced Discord Bot & licensing ecosystem.
 🌐 Universal Web Runner  
 Multi-language runtime container system.  
 📊 GITHUB STATS  
-�  
   
-�  
-￼  
-�  
-￼  
-�  
-￼  
-�  
+   
+  
+
+
   
 🛠 CURRENT FOCUS  
 ⚡ SaaS Panel Systems  
@@ -58,12 +53,8 @@ Multi-language runtime container system.
 🤖 Discord Bot  
 🔥 Advanced Backend Systems  
 🌐 CONNECT  
-�  
   
-�  
-￼   
-�  
-￼   
-�  
+
+
   
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>

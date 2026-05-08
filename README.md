@@ -65,13 +65,4 @@ Multi-language runtime container system.
   
 �  
   
-💀 CYBER TERMINAL 💀  
-Bash  
-Initializing futuristic systems...  
-Loading cyber modules...  
-Docker engine online...  
-Neural interface connected...  
-Welcome back, DragonXSpider.  
-�  
-￼  
-�
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Modern+Full+Stack+Developer;Cyberpunk+UI+Designer;Docker+Expert"/>

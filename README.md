@@ -24,9 +24,9 @@
 > Building futuristic SaaS systems  
 ⚙️ TECH STACK
  
-  
-
-
+ * 
+ *
+ *
   
 🚀 FEATURED PROJECTS  
 ⚡ Slime Panel  
@@ -41,10 +41,10 @@ Advanced Discord Bot & licensing ecosystem.
 Multi-language runtime container system.  
 📊 GITHUB STATS  
   
-   
-  
-
-
+  *
+  *
+  *
+  *
   
 🛠 CURRENT FOCUS  
 ⚡ SaaS Panel Systems  
@@ -54,7 +54,7 @@ Multi-language runtime container system.
 🔥 Advanced Backend Systems  
 🌐 CONNECT  
   
-
-
+*
+*
   
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>

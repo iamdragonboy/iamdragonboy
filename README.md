@@ -24,7 +24,7 @@
 
 </div>
 
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/cyberpunk-edgerunners.gif" width="100%"/>
+<img src="https://cdn.discordapp.com/attachments/1336870093879115859/1502290477720797184/file_00000000804472069c06f8efdd2adaea.png?ex=69ff2c89&is=69fddb09&hm=dbde4d32bc7c4dc83787ce0d55b1732e66b9659a5fd59cc71bda65ecedf2f4e8&"/>
 
 ---
 

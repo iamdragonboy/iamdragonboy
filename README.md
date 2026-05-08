@@ -65,4 +65,4 @@ Multi-language runtime container system.
   
 �  
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Modern+Full+Stack+Developer;Cyberpunk+UI+Designer;Docker+Expert"/>
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/cyberpunk-edgerunners.gif" width="100%"/>

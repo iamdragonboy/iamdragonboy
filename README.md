@@ -12,6 +12,7 @@
 
 </div>
 
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/cyberpunk-edgerunners.gif" width="100%"/>
 ---
 
 # 🧠 ABOUT ME
@@ -65,4 +66,4 @@ Multi-language runtime container system.
   
 �  
   
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/cyberpunk-edgerunners.gif" width="100%"/>
+
